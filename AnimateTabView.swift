@@ -2,7 +2,6 @@
 //  AnimateTabView.swift
 //
 //  Created by ckjdev on 2016. 6. 27..
-//  Copyright © 2016년 Yes24. All rights reserved.
 //
 
 import Foundation
